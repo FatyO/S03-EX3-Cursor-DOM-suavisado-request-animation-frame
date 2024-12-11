@@ -1,5 +1,5 @@
 body {
-    background-color: #202020;
+    background-color: rgb(45, 0, 44)
     color: #fff;
     margin: 0;
 }
@@ -7,5 +7,5 @@ body {
 #tester {
     width: 30px;
     height: 30px;
-    background-color: red;
+    background-color: white;
 }
